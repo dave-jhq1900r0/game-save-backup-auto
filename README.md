@@ -49,3 +49,5 @@ To view a quick summary of your parsed save stats:
 ```cmd
 python backup.py --stats
 ```
+
+<!-- checked: 2026-09-13 -->
