@@ -50,4 +50,4 @@ To view a quick summary of your parsed save stats:
 python backup.py --stats
 ```
 
-<!-- checked: 2026-09-22 -->
+<!-- checked: 2026-09-23 -->
